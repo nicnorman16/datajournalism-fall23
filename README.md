@@ -16,20 +16,19 @@ This is my repository for Data Journalism DC Northwestern Medill 2023.
 3. cars
 
 ## This is a table of the class
-===============================
-Name | Concentration
-===============================
-Nicole | PPFA
-Meaghan | PPFA
-Annie | MIL
-Kelly | MIL
-Andrew | PPFA
-Kelsey | MIL
-Haajrah | MIL
-Emma | MIL
-Anna | PPFA
-Phillip | MIL
-Esther | PFFA
+| Name | Concentration
+---------------------
+|Nicole | PPFA |
+|Meaghan | PPFA |
+|Annie | MIL |
+|Kelly | MIL 
+|Andrew | PPFA|
+|Kelsey | MIL |
+|Haajrah | MIL |
+|Emma | MIL |
+|Anna | PPFA |
+|Phillip | MIL |
+|Esther | PFFA |
 
 [My twitter](https://twitter.com/nicnorman16)
 
