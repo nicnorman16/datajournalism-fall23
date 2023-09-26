@@ -16,8 +16,9 @@ This is my repository for Data Journalism DC Northwestern Medill 2023.
 3. cars
 
 ## This is a table of the class
-| Name | Concentration
----------------------
+
+| Name | Concentration |
+|-------|--------------|
 |Nicole | PPFA |
 |Meaghan | PPFA |
 |Annie | MIL |
