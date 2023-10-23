@@ -8,3 +8,6 @@ To clean this data, I got rid of a lot of the headings and extra columns that we
 The question I attempted to answer was, out of the young voters 18-24, how many of those voters where black females? In actually executing this story, I would like to determine this number for multiple groups of voters, but this felt like a good place to start.
 
 I'm not quite sure I successfully answered this question yet. I will update this when I figure it out. 
+
+A question that I DID answer was: Which group of black voters showed the most turnout?
+The answer to that was females 65 to 74. The group that voted the least was males 18-25. 
