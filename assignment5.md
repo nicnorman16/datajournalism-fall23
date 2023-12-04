@@ -1,1 +1,2 @@
-<iframe title="Many U.S. Native Americans come from abroad" aria-label="Bullet Bars" id="datawrapper-chart-86uID" src="https://datawrapper.dwcdn.net/86uID/1/" scrolling="no" frameborder="0" style="width: 100%; border: none; height: 388px;" data-external="1"></iframe>
+(![XsrDb--span-class-block-inner-something-happened-to-the-native-american-population-in-2020-span-](https://github.com/nicnorman16/datajournalism-fall23/assets/146041166/472b7908-1a78-4c1e-9d66-b3aff94df4b4)
+
