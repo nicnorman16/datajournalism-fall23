@@ -1,4 +1,4 @@
-#Charts based off of this research and write-up from LA Times
+# Charts based off of this research and write-up from LA Times
 https://www.latimes.com/world-nation/story/2023-12-04/why-do-california-texas-differ-so-much-religion-priorities-of-white-minority-play-huge-roles-poll-shows
 
 Links to data: https://today.yougov.com/topics/politics/explore/topic/Los_Angeles_Times_YouGov_polls?content=surveys
