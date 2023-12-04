@@ -6,5 +6,6 @@ Please use this link to see the interactive version of this chart: https://dataw
 
 ![86uID-many-u-s-native-americans-come-from-abroad (1)](https://github.com/nicnorman16/datajournalism-fall23/assets/146041166/a469f9fe-282d-4e37-8429-f9780882120e)
 
-![86uID-many-u-s-native-americans-come-from-abroad (1)](https://github.com/nicnorman16/datajournalism-fall23/assets/146041166/521dfa38-766b-454c-8f40-3b9867f345b9)
+![e5yw6-native-american-origins-2020-aztec- (1)](https://github.com/nicnorman16/datajournalism-fall23/assets/146041166/62dd7c78-a96f-4008-86c3-2f5a50b00cee)
+
 Sorry about this one I did my best
